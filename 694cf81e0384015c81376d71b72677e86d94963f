@@ -1,0 +1,106 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAACH///nA\u003d",
+        "filename": "res/values-ko/arrays.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 32
+      },
+      "writtenOn": "2011-01-29T06:45:39Z",
+      "side": 1,
+      "message": "Should not be translated.",
+      "revId": "694cf81e0384015c81376d71b72677e86d94963f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAACH///m8\u003d",
+        "filename": "res/values-ko/arrays.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 32
+      },
+      "writtenOn": "2011-01-29T06:45:39Z",
+      "side": 1,
+      "message": "Should not be translated.",
+      "revId": "694cf81e0384015c81376d71b72677e86d94963f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAACH///m4\u003d",
+        "filename": "res/values-ko/arrays.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 37,
+      "author": {
+        "id": 32
+      },
+      "writtenOn": "2011-01-29T06:45:39Z",
+      "side": 1,
+      "message": "Should not be translated.",
+      "revId": "694cf81e0384015c81376d71b72677e86d94963f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAACH///m0\u003d",
+        "filename": "res/values-ko/arrays.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 74,
+      "author": {
+        "id": 32
+      },
+      "writtenOn": "2011-01-29T06:45:39Z",
+      "side": 1,
+      "message": "Should not be translated.",
+      "revId": "694cf81e0384015c81376d71b72677e86d94963f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAACH///mw\u003d",
+        "filename": "res/values-ko/arrays.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 140,
+      "author": {
+        "id": 32
+      },
+      "writtenOn": "2011-01-29T06:45:39Z",
+      "side": 1,
+      "message": "Should not be translated.",
+      "revId": "694cf81e0384015c81376d71b72677e86d94963f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAACH///ms\u003d",
+        "filename": "res/values-ko/arrays.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 221,
+      "author": {
+        "id": 32
+      },
+      "writtenOn": "2011-01-29T06:45:39Z",
+      "side": 1,
+      "message": "Should not be translated.",
+      "revId": "694cf81e0384015c81376d71b72677e86d94963f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
