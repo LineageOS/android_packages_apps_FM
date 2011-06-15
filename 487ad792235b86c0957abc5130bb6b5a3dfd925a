@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAG3///p4\u003d",
+        "filename": "src/com/android/fm/radio/FMRadio.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 1273,
+      "author": {
+        "id": 176
+      },
+      "writtenOn": "2011-06-15T11:32:35Z",
+      "side": 1,
+      "message": "// Something like this should be added here and in seekpre... in order to work for TI devices\n                    while (freqA !\u003d freqB) {\n                        freqA \u003d mService.getFreq();\n                        updateSearchProgress();\n                        for (int b \u003d 0; b \u003c 100; b++) {\n                            freqB \u003d mService.getFreq();\n                            if ( freqB !\u003d freqA ) {\n                                break;\n                            }\n                        }\n                    }",
+      "revId": "487ad792235b86c0957abc5130bb6b5a3dfd925a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
