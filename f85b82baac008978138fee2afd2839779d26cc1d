@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAHH///9s\u003d",
+        "filename": "src/com/android/fm/radio/FMRadio.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 1290,
+      "author": {
+        "id": 176
+      },
+      "writtenOn": "2011-06-16T10:39:43Z",
+      "side": 1,
+      "message": "int freq \u003d mService.getFreq();\ntuneRadio( freq + 100 );\n\nA security should be added to avoid pass the freq, limits",
+      "revId": "f85b82baac008978138fee2afd2839779d26cc1d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
