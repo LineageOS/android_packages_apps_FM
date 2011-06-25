@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAHH///Gg\u003d",
+        "filename": "src/com/android/fm/radio/FMRadioService.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 524,
+      "author": {
+        "id": 1039
+      },
+      "writtenOn": "2011-06-25T07:03:55Z",
+      "side": 1,
+      "message": "\"reset_fm\" or \"fm_reset\" ???",
+      "revId": "9140bd1f1620a2d1460d7042df74bcc83b7934e4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
