@@ -67,6 +67,40 @@
       "revId": "ba5238557df18e9bc8d45b81087d5bc2c94976db",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAHn//94s\u003d",
+        "filename": "src/com/android/fm/radio/FMRadioService.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 563,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2011-08-13T18:07:05Z",
+      "side": 1,
+      "message": "This looks pretty Samsung-specific for device-independant code...",
+      "revId": "ba5238557df18e9bc8d45b81087d5bc2c94976db",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAHn//94o\u003d",
+        "filename": "src/com/android/fm/radio/FMRadioService.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 575,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2011-08-13T18:07:05Z",
+      "side": 1,
+      "message": "Same here.",
+      "revId": "ba5238557df18e9bc8d45b81087d5bc2c94976db",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
