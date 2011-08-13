@@ -1,0 +1,72 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAHn//96M\u003d",
+        "filename": "res/values/config.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 188
+      },
+      "writtenOn": "2011-08-13T15:12:56Z",
+      "side": 1,
+      "message": "you don\u0027t need to set them here, you can set those values via overlay in the device tree",
+      "revId": "ba5238557df18e9bc8d45b81087d5bc2c94976db",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAHn//96E\u003d",
+        "filename": "src/com/android/fm/radio/FMRadioService.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 65,
+      "author": {
+        "id": 188
+      },
+      "writtenOn": "2011-08-13T15:12:56Z",
+      "side": 1,
+      "message": "you can put the in the the boardcondig and ignore the values passed to the jni code.",
+      "revId": "ba5238557df18e9bc8d45b81087d5bc2c94976db",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAHn//96I\u003d",
+        "filename": "src/com/android/fm/radio/FMRadioService.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 505,
+      "author": {
+        "id": 188
+      },
+      "writtenOn": "2011-08-13T15:12:56Z",
+      "side": 1,
+      "message": "this looks like death code?",
+      "revId": "ba5238557df18e9bc8d45b81087d5bc2c94976db",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAHn//96A\u003d",
+        "filename": "src/com/android/fm/radio/FMRadioService.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 557,
+      "author": {
+        "id": 188
+      },
+      "writtenOn": "2011-08-13T15:12:56Z",
+      "side": 1,
+      "message": "unused?",
+      "revId": "ba5238557df18e9bc8d45b81087d5bc2c94976db",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
