@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAH3///8Y\u003d",
+        "filename": "src/com/android/fm/radio/FMRadioService.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 1061,
+      "author": {
+        "id": 1573
+      },
+      "writtenOn": "2011-08-23T01:37:13Z",
+      "side": 1,
+      "message": "I think you should also update the comment as well or it will be forgotten and will cause some misunderstanding in the future.",
+      "revId": "dd90d85abc1ebbac8f8858a9a347241def4c2b23",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
