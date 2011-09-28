@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAI3///Nc\u003d",
+        "filename": "src/com/android/fm/radio/FMRadio.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 531,
+      "author": {
+        "id": 444
+      },
+      "writtenOn": "2011-09-28T03:12:45Z",
+      "side": 1,
+      "message": "Too many spaces between \"is\" and \"turned\". Just cosmetic though. :)",
+      "revId": "3990a1b3995b4964f51f08a7043c418fa809e060",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
