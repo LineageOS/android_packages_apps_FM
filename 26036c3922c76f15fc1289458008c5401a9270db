@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAJH///70\u003d",
+        "filename": "src/com/android/fm/radio/FMRadio.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 1628,
+      "author": {
+        "id": 305
+      },
+      "writtenOn": "2011-09-30T23:43:52Z",
+      "side": 1,
+      "message": ".",
+      "revId": "26036c3922c76f15fc1289458008c5401a9270db",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAJH///78\u003d",
+        "filename": "src/com/android/fm/radio/FMRadioService.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 521,
+      "author": {
+        "id": 305
+      },
+      "writtenOn": "2011-09-30T23:43:52Z",
+      "side": 1,
+      "message": "code style problem",
+      "revId": "26036c3922c76f15fc1289458008c5401a9270db",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAJH///74\u003d",
+        "filename": "src/com/android/fm/radio/FMRadioService.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 803,
+      "author": {
+        "id": 305
+      },
+      "writtenOn": "2011-09-30T23:43:52Z",
+      "side": 1,
+      "message": "style problem again",
+      "revId": "26036c3922c76f15fc1289458008c5401a9270db",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
