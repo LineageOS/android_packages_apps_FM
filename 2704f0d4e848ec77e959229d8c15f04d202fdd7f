@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAKX///1M\u003d",
+        "filename": "src/com/android/fm/radio/FMRadio.java",
+        "patchSetId": 7
+      },
+      "lineNbr": 362,
+      "author": {
+        "id": 68
+      },
+      "writtenOn": "2011-10-24T02:36:45Z",
+      "side": 1,
+      "message": "Do you mind calling this updateFmSpeakerDrawable or something that reflects the fact that this is acting on a view and not in the actual FM speaker?",
+      "revId": "2704f0d4e848ec77e959229d8c15f04d202fdd7f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
