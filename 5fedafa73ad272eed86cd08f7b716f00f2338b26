@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAMX///yE\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1337
+      },
+      "writtenOn": "2011-11-29T04:03:23Z",
+      "side": 1,
+      "message": "Leerzeichen am Ende wirklich notwendig ?",
+      "revId": "5fedafa73ad272eed86cd08f7b716f00f2338b26",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
