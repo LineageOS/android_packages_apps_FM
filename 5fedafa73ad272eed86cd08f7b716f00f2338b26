@@ -16,6 +16,24 @@
       "revId": "5fedafa73ad272eed86cd08f7b716f00f2338b26",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAM3///ns\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1951
+      },
+      "writtenOn": "2011-11-29T12:35:17Z",
+      "side": 1,
+      "message": "Im Englischen ist da auch ein Leerzeichen am Ende (\"Enter a name \"). Aber ich muss zugeben, dass ich den Dialog noch nicht gefunden habe.\n---\nIn english there\u0027s also a space at the end of the string (\"Enter a name \"). But I haven\u0027t found that dialog yet.",
+      "parentUuid": "AAAAMX///yE\u003d",
+      "revId": "5fedafa73ad272eed86cd08f7b716f00f2338b26",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
