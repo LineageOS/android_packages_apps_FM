@@ -34,6 +34,24 @@
       "revId": "cb3edfc2f40849439d8b52d3596b8246be2af1d9",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAANH///7o\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1951
+      },
+      "writtenOn": "2011-12-02T23:47:45Z",
+      "side": 1,
+      "message": "Ich denk \"Name eingeben \" passt. Aber statt einem (neuem) Namen kann man eh nur die Frequenz ändern. --- \n\nI think \"Name eingeben \" fits. But instead of a (new) name, you can only change the frequency.",
+      "parentUuid": "AAAANH///8U\u003d",
+      "revId": "cb3edfc2f40849439d8b52d3596b8246be2af1d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
