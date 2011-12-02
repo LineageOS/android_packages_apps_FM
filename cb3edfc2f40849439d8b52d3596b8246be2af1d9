@@ -16,6 +16,24 @@
       "revId": "cb3edfc2f40849439d8b52d3596b8246be2af1d9",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAANH///8U\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1337
+      },
+      "writtenOn": "2011-12-02T20:22:21Z",
+      "side": 1,
+      "message": "ich würd Namen verwenden",
+      "parentUuid": "AAAANH///9Y\u003d",
+      "revId": "cb3edfc2f40849439d8b52d3596b8246be2af1d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
