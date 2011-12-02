@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAANH///9Y\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1309
+      },
+      "writtenOn": "2011-12-02T17:06:06Z",
+      "side": 1,
+      "message": "heisst es \u0027Name\u0027 oder \u0027Namen\u0027? Ich denke gerade \u0027Namen, bin mir aber nicht sicher.",
+      "revId": "cb3edfc2f40849439d8b52d3596b8246be2af1d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
