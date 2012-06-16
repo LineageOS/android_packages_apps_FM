@@ -1,0 +1,72 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAUH//+Rg\u003d",
+        "filename": "res/values-nl/arrays.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 2248
+      },
+      "writtenOn": "2012-06-16T13:43:29Z",
+      "side": 1,
+      "message": "Je zou de lijst ook alfabetisch kunnen maken, dan moet je uit de values/strings.xml ook de lijst met codes halen en zorgen dat die blijven matchen.",
+      "revId": "a19cb28e47867d6e05c02b777da39bcfc441e7b1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//+Ro\u003d",
+        "filename": "res/values-nl/arrays.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 2248
+      },
+      "writtenOn": "2012-06-16T13:43:29Z",
+      "side": 1,
+      "message": "Onderwijs?\nCollege is net iets anders dan scholen....",
+      "revId": "a19cb28e47867d6e05c02b777da39bcfc441e7b1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//+Rk\u003d",
+        "filename": "res/values-nl/arrays.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 53,
+      "author": {
+        "id": 2248
+      },
+      "writtenOn": "2012-06-16T13:43:29Z",
+      "side": 1,
+      "message": "typo z-\u003em",
+      "revId": "a19cb28e47867d6e05c02b777da39bcfc441e7b1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//+RY\u003d",
+        "filename": "res/values-nl/arrays.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 56,
+      "author": {
+        "id": 2248
+      },
+      "writtenOn": "2012-06-16T13:43:29Z",
+      "side": 1,
+      "message": "Ik ben voor maximaal gebruik van de Nederlandse taal, maar hier schieten we wat mij betreft het doel enigszins voorbij. Wat mij betreft is \"easy listening muziek\" een beter vertaling:\nhttp://nl.wikipedia.org/wiki/Easy_listening",
+      "revId": "a19cb28e47867d6e05c02b777da39bcfc441e7b1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
