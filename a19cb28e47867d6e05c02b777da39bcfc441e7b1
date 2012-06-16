@@ -67,6 +67,40 @@
       "revId": "a19cb28e47867d6e05c02b777da39bcfc441e7b1",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//+PE\u003d",
+        "filename": "res/values-nl/arrays.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 110,
+      "author": {
+        "id": 2049
+      },
+      "writtenOn": "2012-06-16T17:53:19Z",
+      "side": 1,
+      "message": "Nieuw-Zeeland",
+      "revId": "a19cb28e47867d6e05c02b777da39bcfc441e7b1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//+O8\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 2049
+      },
+      "writtenOn": "2012-06-16T17:53:19Z",
+      "side": 1,
+      "message": "Ook uitschakelen?",
+      "revId": "a19cb28e47867d6e05c02b777da39bcfc441e7b1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
